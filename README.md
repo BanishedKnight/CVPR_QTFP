@@ -31,7 +31,8 @@ If you find our work useful, please cite:
 ```bibtex
 @inproceedings{wang2026qtfp,
   title={Beyond [CLS] Token: Query-Driven Token-Level Forgery Purification for Generalizable Deepfake Detection},
-  author={Changshuo, Wang and Jiangming, Wang and Ke-Yue, Zhang and Taiping, Yao and Shunli, Wang and Shouhong, Ding and Ran, Yi and Lizhuang, Ma},
-  booktitle={CVPR},
+  author={Wang, Changshuo and Wang, Jiangming and Zhang, Ke-Yue and Yao, Taiping and Wang, Shunli and Ding, Shouhong and Yi, Ran and Ma, Lizhuang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2026}
 }
+```
