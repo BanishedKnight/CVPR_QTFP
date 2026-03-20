@@ -2,8 +2,9 @@
 
 ### [CVPR 2026] 
 
-**Authors:** Changshuo Wang^1,2,*^, Jiangming Wang^2,*^, Ke-Yue Zhang^2^, Taiping Yao^2^, Shunli Wang^2^, Shouhong Ding^2^, Ran Yi^1^, Lizhuang Ma^1^  
-**Institution:** ^1^Shanghai Jiao Tong University, ^2^Tencent Youtu Lab
+**Authors:** Changshuo Wang<sup>1,2,\*</sup>, Jiangming Wang<sup>2,\*</sup>, Ke-Yue Zhang<sup>2</sup>, Taiping Yao<sup>2</sup>, Shunli Wang<sup>2</sup>, Shouhong Ding<sup>2</sup>, Ran Yi<sup>1</sup>, Lizhuang Ma<sup>1</sup>  
+
+**Institution:** <sup>1</sup>Shanghai Jiao Tong University, <sup>2</sup>Tencent Youtu Lab
 
 ---
 
